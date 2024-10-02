@@ -8,6 +8,11 @@ This project, titled "Video Summarizer," focuses on extracting and summarizing i
 - Audio Extraction and Preprocessing: Converts video to audio using the FFmpeg library. Applies noise reduction techniques to enhance audio clarity.
 - Transcription with Whisper: The audio is transcribed into text using the Whisper model, known for its high accuracy across different languages and dialects.
 - Text Summarization using T5 Small: The transcribed text is summarized using a fine-tuned T5 small model on the CNN/DailyMail dataset, providing concise and relevant summaries of the original content.
+
+**Diagram**
+![Diagram](Diagram.png)
+
+
   
 **Performance**
 
@@ -19,3 +24,13 @@ This project, titled "Video Summarizer," focuses on extracting and summarizing i
 
 - Challenges: Dealing with background noise in videos and achieving real-time processing at scale.
 - Future Improvements: Optimize the model for multi-language support, closed captioning, and improving summary completeness.
+
+**1 -User Video Uploading**
+![UI_Video_uploading](UI_Video_uploading.png)
+
+**2- Summary Generating**
+![UI_Summary](UI_Summary.png)
+
+**3- Transcript Generating**
+![UI_Transcript](UI_Transcript.png)
+
