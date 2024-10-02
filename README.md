@@ -10,6 +10,7 @@ This project, titled "Video Summarizer," focuses on extracting and summarizing i
 - Text Summarization using T5 Small: The transcribed text is summarized using a fine-tuned T5 small model on the CNN/DailyMail dataset, providing concise and relevant summaries of the original content.
 
 **Diagram**
+
 ![Diagram](Diagram.png)
 
 
@@ -28,9 +29,11 @@ This project, titled "Video Summarizer," focuses on extracting and summarizing i
 **1 -User Video Uploading**
 ![UI_Video_uploading](UI_Video_uploading.png)
 
-**2- Summary Generating**
+**2- Transcript Generating**
+![UI_Transcript](UI_Transcript.png)
+
+**3- Summary Generating**
 ![UI_Summary](UI_Summary.png)
 
-**3- Transcript Generating**
-![UI_Transcript](UI_Transcript.png)
+
 
