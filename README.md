@@ -35,6 +35,14 @@ In today's fast-paced world, many individuals struggle to find time to watch len
 - **User-Friendly Interface:** Allows users to upload videos and receive summarized text in an intuitive format.
 
 
+  
+## Diagram
+
+
+
+![Diagram](Diagram.png)
+
+
 
 ## Technical Details
 
@@ -81,15 +89,32 @@ The application has been evaluated using metrics such as Word Error Rate (WER), 
 In conclusion, our project successfully developed a web application that improves video content accessibility and consumption efficiency. The Whisper ASR system demonstrated high transcription accuracy, with Word Error Rates (WER) ranging from 2.05% to 22.38%. The fine-tuned T5-small model generated concise summaries, achieving ROUGE-1 precision of 27.98% and recall of 36.62%, indicating its capability to capture essential information. While the results are promising, there is room for improvement in precision and recall. Overall, this project highlights the potential of AI-driven solutions to make video content more manageable and inclusive for diverse audiences. Future work will focus on enhancing model performance and expanding language support.
 
 
+## Demo
+
+
 
 **1 -User Video Uploading**
+
+
+
 ![UI_Video_uploading](UI_Video_uploading.png)
 
+
+
+
 **2- Transcript Generating**
+
+
+
 ![UI_Transcript](UI_Transcript.png)
 
-**3- Summary Generating**
-![UI_Summary](UI_Summary.png)
 
+
+
+**3- Summary Generating**
+
+
+
+![UI_Summary](UI_Summary.png)
 
 
