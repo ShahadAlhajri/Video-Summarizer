@@ -52,7 +52,7 @@ In today's fast-paced world, many individuals struggle to find time to watch len
 
 
 
-- Utilizes the CNN/DailyMail dataset for training and evaluating the summarization model.
+- Utilizes the CNN/DailyMail dataset for training and evaluating the summarization model. A total of 50,000 data samples were used to train the T5 small model.
 
 
 
